@@ -46,7 +46,7 @@ export default function Footer() {
         </div>
         <div className="footer-sns">
           <div className="design-by">
-            Tambien pudes contactarme en mis redes
+
           </div>
           <div className="sns-links">
             <a
