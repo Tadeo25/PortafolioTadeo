@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react'
-import './Navbar.css'
 import { init } from 'ityped'
+import './Navbar.css'
 
 export default function Navbar({ isScrolling }) {
     const toTheTop = () => {
