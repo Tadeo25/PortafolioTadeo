@@ -56,7 +56,7 @@ export default function Footer() {
             >
               <i className="fab fa-linkedin linkedin"></i>
             </a>
-            <a href="https://www.instagram.com/tade_mocoroa/" 
+            <a href="https://www.instagram.com/tadeo.mocoroa/" 
                target="_blank"
                rel="noreferrer"
                >
